@@ -2,14 +2,14 @@
 # AutoClearLagg (ACL) Settings
 
 # Seconds between each clear lagg
-seconds: 300
+seconds: 100
 
 # Things to clear
 items: true
 mobs: true
 
 # Messages broadcasted
-all-cleared-message: §cAll entites cleared
-items-cleared-message: §cAll items cleared
-mobs-cleared-message: §cAll mobs cleared
+all-cleared-message: §c[Paincraft]§4Alle Items\Mobs Wurden Gelöscht
+items-cleared-message: §c[Paincraft]§4Alle Items Wurden Gelöscht
+mobs-cleared-message: §c[Paincraft]§4Alle Mobs wurden Gelöscht
 ...
